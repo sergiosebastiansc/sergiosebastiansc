@@ -38,10 +38,11 @@ Me apasiona escribir c√≥digo limpio y aprender constantemente. Actualmente en b√
 <a href = 'https://www.linkedin.com/in/sergiosalinasc/'> <img width = '42px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <br>
 <br>
-<a href = 'sergiosalinas.vercel.app'> <img width = '42px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<br><br>
-<a href = 'sergiosebastiansc@gmail.com'> <img width = '42px' align= 'center'
-src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/></a> 
+<a href = 'https://sergiosalinas.vercel.app'> <img width = '42px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<br>
+<br>
+<a href = 'mailto:sergiosebastiansc@gmail.com'> <img width = '42px' align= 'center'
+src='https://img.icons8.com/fluency/48/000000/apple-mail.png'/></a> 
 
 <br> 
 
