@@ -35,13 +35,13 @@ Me apasiona escribir código limpio y aprender constantemente. Actualmente en b�
 
 
 <h2> Contáctame <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2> <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/Right_Side.gif" width="260" /></div>
-<a href = 'https://www.linkedin.com/in/sergiosalinasc/'> <img width = '42px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.linkedin.com/in/sergiosalinasc/'> <img width = '72px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <br>
 <br>
-<a href = 'https://sergiosalinas.vercel.app'> <img width = '42px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
+<a href = 'https://sergiosalinas.vercel.app'> <img width = '72px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <br>
 <br>
-<a href = 'mailto:sergiosebastiansc@gmail.com'> <img width = '42px' align= 'center'
+<a href = 'mailto:sergiosebastiansc@gmail.com'> <img width = '78px' align= 'center'
 src='https://img.icons8.com/fluency/48/000000/apple-mail.png'/></a> 
 
 <br> 
@@ -50,5 +50,4 @@ src='https://img.icons8.com/fluency/48/000000/apple-mail.png'/></a>
 <!-- GIF FOOTER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
 
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
