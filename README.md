@@ -5,8 +5,7 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre Mi
 
-QA Automation y Desarrollador FullStack JavaScript en formación continua, en transición desde el área de enfermería hacia la tecnología. Mi experiencia previa en salud me permitió desarrollar habilidades clave como el trabajo bajo presión, la atención al detalle, la resolución de problemas y el trabajo en equipo, competencias que hoy aplico en el ciclo de desarrollo de software, desde el testing hasta la mantención de aplicaciones web completas, creando interfaces de usuario responsivas hasta arquitecturas backend robustas con autenticación, bases de datos y APIs REST. 
-Me apasiona escribir código limpio y aprender constantemente. Actualmente en búsqueda de oportunidad profesional en el área TI, con ganas de aportar valor real a un equipo y seguir creciendo.
+QA Automation y Desarrollador FullStack JavaScript en formación continua, en transición desde el área de enfermería hacia la tecnología. Mi experiencia previa en salud me permitió desarrollar habilidades clave como el trabajo bajo presión, la atención al detalle, la resolución de problemas y el trabajo en equipo, competencias que hoy aplico en el ciclo de desarrollo de software, desde el testing hasta la mantención de aplicaciones web completas, con ganas de aportar valor real a un equipo y seguir creciendo.
 
 
 
