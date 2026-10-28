@@ -46,7 +46,6 @@ src='https://img.icons8.com/fluency/48/000000/apple-mail.png'/></a>
 <br> 
 
 
-<!-- GIF FOOTER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+
 
 
